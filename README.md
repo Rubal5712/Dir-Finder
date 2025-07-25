@@ -1,6 +1,6 @@
 Dir Finder – Directory and File Locator Tool
 
-\\Description\\
+Description
 
 Dir Finder is a lightweight and efficient tool designed to help users quickly locate directories and files within complex file systems. Whether you're a developer, system administrator, or casual user, Dir Finder streamlines the process of finding the exact path or folder you're looking for, saving time and reducing manual search effort.
 
