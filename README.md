@@ -1,4 +1,4 @@
-Dir Finder – Directory and File Locator Tool**
+Dir Finder – Directory and File Locator Tool
 
 \\Description\\
 
