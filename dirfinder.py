@@ -4,7 +4,7 @@ import requests
 import os
 from pyfiglet import figlet_format
 
-
+## Welcome 
 def validate_url(url):
     pattern = r"^https?://[A-Za-z0-9.-]+\.[a-z]{2,}/*$"
     return re.match(pattern, url)
