@@ -2,7 +2,6 @@
 import re
 import requests
 import os
-from pyfiglet import figlet_format
 
 ## Welcome 
 def validate_url(url):
